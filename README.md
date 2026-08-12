@@ -4,8 +4,9 @@
 # Objetivo Profissional
 ### Desenvolver soluções inovadoras e eficientes na área de Análise e Desenvolvimento de Sistemas, contribuindo para o crescimento da empresa e aprimorando minhas habilidades técnicas e profissionais.
 # Formação Acadêmica
-* Cursando o Ensino Médio No Sesi em Álvares Machado 
-* Cursando Ensino Técnico em Análise e Desenvolvimento de Sistemas no Senai "Santo Paschoal Crepaldi"
+* Ensino Médio No Sesi em Álvares Machado 
+* Ensino Técnico em Análise e Desenvolvimento de Sistemas no Senai "Santo Paschoal Crepaldi"
+* Toledo Prudente – Centro Universitário (Análise e Desenvolvimento de Sistemas (ADS) — Cursando)
 # Experiência Profissional
 ## Sites em HTML e JavaScript
 * Descrição: Criação de diversos sites utilizando a aplicação Visual Studio Code.
@@ -13,7 +14,7 @@
 ## Organização de Infraestrutura de Redes
 * Descrição: Planejamento e execução do cabeamento de uma sala de aula, garantindo a organização e eficiência da infraestrutura de rede.
 # Habilidades Técnicas
-* Linguagens de Programação: Python, JavaScript;
+* Linguagens de Programação: Python, JavaScript, C ;
 * Desenvolvimento Web: HTML, JavaScript;
 * Ferramentas de Versionamento: Git;
 * Design e Ferramentas: Canva Pro, Pacote Office 365 (PowerPoint, Excel...);
